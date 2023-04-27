@@ -14,7 +14,7 @@
 * 3)	On the top of the dashboard page, have a button to create a new post. This should open a form upon submitting the form, call the POST operation on the /posts endpoint.
 
 **Welcome, on to add registration, login, and logout using Auth0,Not only google login, but we also have multiple options to choose from in Auth0 ex. LinkedIn Login with React, GitHub**
-* htps://Auth0.com
+* https://Auth0.com
 1) Auth0 Registration
 2) Create Auth0 Application 
 3) configure Auth0Provider
